@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@brikl/design-storefront": "^1.0.0-alpha-move-storefront-preset.1",
+    "@brikl/design-storefront": "1.1.1-alpha-public-preset.3",
+    "@brikl/design-token": "1.1.1-alpha-public-preset.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
